@@ -38,7 +38,7 @@ remove_action('wp_head', 'rest_output_link_wp_head', 10);
 define('isdolcetheme', 1);
 $theme_version = "360";
 
-// escortwp.zip for davit natelashvili
+
 $license_key = '94n6vb2fc1vk4zi2rc3aqf999g4odf916ts897045hr9nlv67v62g78246145xi8r8b8u3ccel763a1x';
 
 include(get_template_directory().'/functions-settings.php');
